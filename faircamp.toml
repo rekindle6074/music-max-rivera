@@ -1,0 +1,9 @@
+# Informations principales de votre site d'artiste
+title = "Max Rivera - AI Music Experience"
+artist = "Max Rivera"
+description = "Melodic Metal Ballads, Latin Vibes & Pop Experiments powered by Artificial Intelligence."
+
+# Ajout de votre Link in Bio officiel
+[[link]]
+name = "My Link in Bio"
+url = "https://heylink.me/Maxri/"
