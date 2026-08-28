@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+    <channel>
+        <atom:link href="https://music-max-rivera.vercel.app/feed.rss" rel="self" type="application/rss+xml"/>
+        <description>Melodic Metal Ballads, Latin Vibes &amp;amp;amp; Pop Experiments powered by Artificial Intelligence.</description>
+        <generator>Faircamp 1.7.0 (856070a)</generator>
+        <image>
+    <height>920</height>
+    <link>https://music-max-rivera.vercel.app/</link>
+    <title>Logo Max Rivera</title>
+    <url>https://music-max-rivera.vercel.app/feed.jpg?UReMx6YnveY</url>
+    <width>920</width>
+</image>
+
+        <language>en</language>
+        <lastBuildDate>Fri, 28 Aug 2026 19:24:54 +0000</lastBuildDate>
+        <link>https://music-max-rivera.vercel.app/</link>
+        <title>Max Rivera - AI Music Experience</title>
+        
+        <item>
+    <description>&lt;p&gt;Une ode poétique à l'éternité du cœur. Des ballades romantique qui célèbre l'amour au-delà du temps.&lt;/p&gt;
+</description>
+    <guid>https://music-max-rivera.vercel.app/french-pop/</guid>
+    <link>https://music-max-rivera.vercel.app/french-pop/</link>
+    <title>max_rivera – French pop</title>
+    
+</item>
+
+<item>
+    <description>&lt;p&gt;An intimate collection of melancholic Spanish flamenco ballads. Warm nylon guitars, passionate vocals, and Mediterranean melodies dedicated to eternal memories.&lt;/p&gt;
+</description>
+    <guid>https://music-max-rivera.vercel.app/latin-vibes/</guid>
+    <link>https://music-max-rivera.vercel.app/latin-vibes/</link>
+    <title>Max Rivera, Max Rivera – Latin Vibes</title>
+    
+</item>
+
+<item>
+    <description>&lt;p&gt;An epic collection of melodic Heavy Metal Ballads. Every track is an atmospheric journey, blending powerful guitar riffs with deep emotions, entirely crafted and experimented through cutting-edge AI music generators.&lt;/p&gt;
+</description>
+    <guid>https://music-max-rivera.vercel.app/metal-ballads/</guid>
+    <link>https://music-max-rivera.vercel.app/metal-ballads/</link>
+    <title>Max Rivera, Max Rivera – Metal Ballads</title>
+    
+</item>
+
+    </channel>
+</rss>
